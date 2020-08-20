@@ -1,3 +1,4 @@
+package recursion;
 public class KthSymbolGrammar {
     public static void main(String[] args) {
         int n = 3;
