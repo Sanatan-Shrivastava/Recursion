@@ -1,3 +1,5 @@
+package Recursion;
+
 public class FactorialOfN {
     public static int printFactorial(int n) {
         if(n < 2) {
